@@ -1,3 +1,4 @@
+Hi Rawling, great work with this! I'm taking your idea as a starting point to make a small rankings app for my fencing club. I'd like to make you this question, which will help me a lot. Suppose the rugby rankings starts today. Suppose france wins 10-0 every match in the 6 nations, and at the same time lets say Panama wins 10-0 all of their matches in the Central America 6 nations (competing with TrinidadTobago, Jamaica, Haiti, Guatemala and Nicaragua). At the end of these competitions they would be tied in the world ranking? How does it get solved? Thanks a lot! you can reach me at duchoprog@gmail.com
 # wr-calc
 World Rugby rankings calculator
 
